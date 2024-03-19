@@ -8,14 +8,14 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # To install app #
-# npm install
+- npm install
 
 # To Run app #
-# npm run dev
+- npm run dev
 
-
-- Assignment 1 : Make a digital CLOCK Component using useEffect Hook. We need to only update the time Upto seconds in it.
+Assignment 3
+- Assignment 3.1 : Make a digital CLOCK Component using useEffect Hook. We need to only update the time Upto seconds in it.
 - HH:MM:SS format can be used. Can you make it send a Console.log at end of every minute ?
 
-- Assignment 2 : Implement a simple TIMER that displays the elapsed time since the start button was pressed, and it can be
+- Assignment 3.2 : Implement a simple TIMER that displays the elapsed time since the start button was pressed, and it can be
 - stopped and reset. Like a stopwatch.
